@@ -12,6 +12,12 @@ I applied strategic frameworks like **PESTLE**, **SWOT**, **Porter's Five Forces
 ## 📊 Research Skills
 I conducted in-depth **secondary research** using academic journals, market data, and industry reports to support my decisions and ensure strategic alignment with both the simulation environment and the broader jetpack industry.
 
+## 🔍 Use of Market Research Tools
+
+### 🧩 Strategy Consulting Project (Jetpack Industry Simulation)
+- **Hubro Business Simulation**: Used to test strategic decisions and evaluate business performance metrics like sales trends, production efficiency, and market share dynamics.
+- **Framework-Driven Analysis**: Applied models such as **SWOT**, **PESTLE**, **Porter’s Five Forces**, and **Ansoff Matrix** to assess the market environment and define strategic direction.
+- **Competitor Benchmarking**: Conducted comparative analysis using simulated industry data to optimize Falcon’s positioning and pricing strategy.
 ---
 
 ## 💡 Strategic Planning
