@@ -34,10 +34,7 @@ I diagnosed key operational challenges and proposed actionable solutions such as
 
 ---
 
-## 📂 Structure
-- `Report/`: Final strategy report with frameworks, data, and recommendations.
-- `Data/`: Hubro simulation metrics, charts, and market analysis.
-- `Slides/`: Presentation-ready pitch deck summarizing key strategy points.
+
 
 ---
 
