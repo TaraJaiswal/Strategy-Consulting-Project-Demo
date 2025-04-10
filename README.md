@@ -1,22 +1,50 @@
-# Strategy-Consulting-Project-Demo
-This is demo of my work & skills that I can publish on public platform
-🧠 Analytical Thinking
-I applied strategic frameworks like PESTLE, SWOT, Porter's Five Forces, and the Ansoff Matrix to deeply analyze Falcon’s internal and external environment. I interpreted data from the Hubro simulation and translated it into meaningful insights that shaped our recommendations.
+# 🚀 Strategy Consulting Project Demo
 
-📊 Research Skills
-I conducted thorough secondary research using academic journals, market reports, and credible online sources. This helped me support my arguments with evidence and tailor strategies relevant to both the simulation and the real-world jetpack industry.
+Welcome to my strategy consulting project demo — a showcase of analytical, strategic, and research-based work developed through an immersive business simulation and real-world industry analysis. This project was focused on **Falcon**, a jetpack company, and explores competitive strategy using leading business frameworks and simulation tools.
 
-💡 Strategic Planning
-I contributed to developing a business roadmap for Falcon that aligned with a cost leadership strategy. I used tools like Porter’s Generic Strategies and Bowman’s Strategy Clock to evaluate different strategic options and identify the most viable path forward.
+---
 
-📝 Business and Technical Writing
-I was actively involved in drafting key sections of the report. I made sure the writing was clear, professional, and backed with appropriate references. I also helped organize the content into a logical structure, including the mission, vision, and values, as well as detailed analyses and appendices.
+## 🧠 Analytical Thinking
+I applied strategic frameworks like **PESTLE**, **SWOT**, **Porter's Five Forces**, and the **Ansoff Matrix** to deeply analyze Falcon’s internal and external environment. I interpreted simulation data and translated it into insights that shaped high-impact strategic recommendations.
 
-💻 Digital Literacy
-I worked with Hubro simulation tools to analyze Falcon’s performance data. This allowed me to test strategic assumptions and better understand the financial and market dynamics in a simulated business environment.
+---
 
-📈 Marketing and Business Acumen
-I evaluated competitor strategies and recognized opportunities where Falcon could leverage marketing to gain ground. I understood the role of brand visibility and proposed B2B marketing approaches, especially for the recreational sector.
+## 📊 Research Skills
+I conducted in-depth **secondary research** using academic journals, market data, and industry reports to support my decisions and ensure strategic alignment with both the simulation environment and the broader jetpack industry.
 
-🧭 Problem-Solving and Decision-Making
-I identified key challenges Falcon faced and proposed actionable solutions, such as optimizing production methods and exploring cost-efficient materials. My goal was always to support the company in becoming a competitive cost leader.
+---
+
+## 💡 Strategic Planning
+I helped develop a **business roadmap** aligned with a cost leadership strategy. Using models such as **Porter’s Generic Strategies** and **Bowman’s Strategy Clock**, I explored and evaluated different paths to gain competitive advantage.
+
+---
+
+## 📝 Business & Technical Writing
+I authored and structured key sections of the final report, including the **mission**, **vision**, and **strategic analyses**. I ensured clarity, professionalism, and academic rigor in documentation and presentation.
+
+---
+
+## 💻 Digital Literacy
+Using **Hubro Simulation**, I analyzed Falcon’s financial and operational data. I tested assumptions, predicted outcomes, and understood the broader market dynamics in a risk-free, data-rich environment.
+
+---
+
+## 📈 Marketing & Business Acumen
+I assessed competitor positioning and identified how Falcon could improve its **B2B marketing approach**, especially within the **recreational jetpack segment**. Emphasis was placed on **brand visibility** and **customer value creation**.
+
+---
+
+## 🧭 Problem-Solving & Decision-Making
+I diagnosed key operational challenges and proposed actionable solutions such as **production optimization**, **resource allocation**, and **cost-efficient sourcing** to help Falcon become a **cost leader**.
+
+---
+
+## 📂 Structure
+- `Report/`: Final strategy report with frameworks, data, and recommendations.
+- `Data/`: Hubro simulation metrics, charts, and market analysis (if shareable).
+- `Slides/`: Presentation-ready pitch deck summarizing key strategy points.
+
+---
+
+## 👤 About Me
+I'm Vibhuti Jaiswal — passionate about strategy, analytics, and digital transformation.  
