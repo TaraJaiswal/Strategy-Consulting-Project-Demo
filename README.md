@@ -24,11 +24,6 @@ I authored and structured key sections of the final report, including the **miss
 
 ---
 
-## 💻 Digital Literacy
-Using **Hubro Simulation**, I analyzed Falcon’s financial and operational data. I tested assumptions, predicted outcomes, and understood the broader market dynamics in a risk-free, data-rich environment.
-
----
-
 ## 📈 Marketing & Business Acumen
 I assessed competitor positioning and identified how Falcon could improve its **B2B marketing approach**, especially within the **recreational jetpack segment**. Emphasis was placed on **brand visibility** and **customer value creation**.
 
@@ -41,7 +36,7 @@ I diagnosed key operational challenges and proposed actionable solutions such as
 
 ## 📂 Structure
 - `Report/`: Final strategy report with frameworks, data, and recommendations.
-- `Data/`: Hubro simulation metrics, charts, and market analysis (if shareable).
+- `Data/`: Hubro simulation metrics, charts, and market analysis.
 - `Slides/`: Presentation-ready pitch deck summarizing key strategy points.
 
 ---
